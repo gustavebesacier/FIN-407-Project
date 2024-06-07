@@ -75,7 +75,7 @@ Old files, they should not be used as they may contain inefficient code or even 
 
 ## Usage 🫳
 The code can be downloaded on the GitHub repository. Usage is of a standard Python code.
-The original file is quite large and it is available in a Google Drive.
+The original file is quite large and it is available in a Google Drive: https://drive.google.com/drive/folders/1ivoX5Kiannv-GN9mML8K0n7tHz3baE38?usp=share_link
 
 ## Contact 📒
 - Guillaume Ferrer: guillaume[dot]ferrer[at]epfl[dot]ch
@@ -84,7 +84,7 @@ The original file is quite large and it is available in a Google Drive.
 - Agustina Maria Zein: agustina[dot]zein[at]epfl[dot]ch
 
 
-Project link: https://github.com/gustavebesacier/MouLa
+Project link: [https://github.com/gustavebesacier/MouLa](https://github.com/donQuiote/FIN-407-Project.git)
 
 ## Acknowledgments 🤗
 We thank FIN-407 team for their support.
